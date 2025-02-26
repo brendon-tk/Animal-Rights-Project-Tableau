@@ -3,6 +3,11 @@
 🔍 Understanding Global Animal Welfare and Ethical Practices
 
 Our Dashboard
+![Control Chart](1.png)
+
+![Control Chart](2.png)
+
+![Control Chart](3.png)
 
 
 📌 Project Overview
