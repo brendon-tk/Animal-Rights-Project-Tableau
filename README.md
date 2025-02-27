@@ -1,6 +1,6 @@
-🐾 Data Visualization - Animal Rights Data
-📊 Better Visuals, Better Voices for Animals
-🔍 Understanding Global Animal Welfare and Ethical Practices
+Data Visualization - Animal Rights Data
+Better Visuals, Better Voices for Animals
+Understanding Global Animal Welfare and Ethical Practices
 
 Our Dashboard
 ![Control Chart](1.png)
@@ -10,10 +10,11 @@ Our Dashboard
 ![Control Chart](3.png)
 
 
-📌 Project Overview
+
+Project Overview
 This project aims to improve data visualization for animal rights and welfare by analyzing global trends in:
 
-🥩 Meat consumption and its impact:
+Meat consumption and its impact:
 1. Fur trade practices
 2. Animal cruelty policies
 3. Regional animal welfare trends
@@ -40,7 +41,8 @@ File Name	Description
 Data Visualization - Animal Rights Data.pptx	PowerPoint presentation with visualized insights
 dataset.csv	Raw data used for analysis
 dashboard.pbix	Power BI visualization file
-👥 Team Members
+
+Team Members
 Brendon Matsikinya
 Tony Afuti
 Luke Henkel
