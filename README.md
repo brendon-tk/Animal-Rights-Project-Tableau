@@ -13,28 +13,29 @@ Our Dashboard
 📌 Project Overview
 This project aims to improve data visualization for animal rights and welfare by analyzing global trends in:
 
-🥩 Meat consumption and its impact
-🦊 Fur trade practices
-🏥 Animal cruelty policies
-📈 Regional animal welfare trends
-📊 Data Sources
+🥩 Meat consumption and its impact:
+1. Fur trade practices
+2. Animal cruelty policies
+3. Regional animal welfare trends
+4. Data Sources
 We collected data from:
 
 PETA (People for the Ethical Treatment of Animals)
 World Animal Protection
 Global Animal Law
 Animal Rights Index
-🛠️ Tools & Technologies
+Tools & Technologies
 Power BI / Tableau – for dashboard creation
 Excel / SQL – for data preprocessing
 Python (Pandas, Matplotlib, Seaborn) – for data analysis
 PowerPoint – for final presentation
-📌 Key Insights
-✔️ Some regions have weak policies on animal welfare.
-✔️ High fur farming countries need awareness campaigns.
-✔️ Educating consumers can influence ethical decisions.
 
-📂 Files in This Repository
+ Key Insights:
+1 Some regions have weak policies on animal welfare.
+2. High fur farming countries need awareness campaigns.
+3 Educating consumers can influence ethical decisions.
+
+Files in This Repository:
 File Name	Description
 Data Visualization - Animal Rights Data.pptx	PowerPoint presentation with visualized insights
 dataset.csv	Raw data used for analysis
